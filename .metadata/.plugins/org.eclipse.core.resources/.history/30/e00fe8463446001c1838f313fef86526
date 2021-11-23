@@ -1,5 +1,0 @@
-package com.fdeazagra.springboot.app.productos.controllers;
-
-public class ProductoController {
-
-}
